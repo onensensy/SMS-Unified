@@ -88,7 +88,7 @@
                         <div class="col">
                             <div class="p-3 bg-white border rounded-3" style="height: 100%;">
                                 <h3>Manage school better</h3>
-                                <p class="text-end">with SCHOOL {{config('app.name'}}</p>
+                                <p class="text-end">with {{config('app.name')}}</p>
                             </div>
                         </div>
                     </div>
